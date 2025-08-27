@@ -1,0 +1,16 @@
+{
+  "simple_objects": [
+    "1"
+  ],
+  "S_matrix": [
+    [
+      1.0
+    ]
+  ],
+  "T_matrix": [
+    1.0
+  ],
+  "fusion_rules": {
+    "0,0,0": 1
+  }
+}
